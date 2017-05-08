@@ -10,5 +10,6 @@ const processor = remark().use(preset)
 const doc = toVfile.readSync(path.join(process.cwd(), 'README.md'))
 
 processor.process(doc, (err, res) => {
+  console.log((err) ? null : res.messages)
   console.log(report(err || res))
 })
