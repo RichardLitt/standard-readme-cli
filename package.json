@@ -3,6 +3,7 @@
   "version": "2.0.0",
   "description": "A CLI tool for linting READMEs according to standard-readme",
   "main": "index.js",
+  "bin": "index.js",
   "scripts": {
     "lint": "standard",
     "test": "standard && echo \"Error: no test specified\" && exit 1"
