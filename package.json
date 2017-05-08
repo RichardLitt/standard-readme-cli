@@ -1,6 +1,6 @@
 {
   "name": "standard-readme",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "A CLI tool for linting READMEs according to standard-readme",
   "main": "index.js",
   "bin": "index.js",
@@ -29,5 +29,9 @@
   },
   "devDependencies": {
     "standard": "^10.0.2"
-  }
+  },
+  "coordinates": [
+    52.5172581,
+    13.4536789
+  ]
 }
