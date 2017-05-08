@@ -2,6 +2,8 @@
 
 > A CLI tool for linting READMEs according to standard-readme
 
+This is a **Work in Progress**. See [#4](https://github.com/RichardLitt/standard-readme-cli/issues/4).
+
 ## Install
 
 ```sh
