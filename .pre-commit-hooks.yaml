@@ -1,0 +1,6 @@
+- id: standard-readme
+  name: Standard Readme
+  description: Check README compliance with standard-readme spec
+  entry: standard-readme
+  language: node
+  files: '^README.md$'
