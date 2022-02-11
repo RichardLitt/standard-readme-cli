@@ -26,7 +26,7 @@ $ standard-readme
 
 - [@RichardLitt](https://github.com/RichardLitt)
 
-## Contribute
+## Contributing
 
 Please do! Open an issue, or file a PR.
 
